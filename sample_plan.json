@@ -1,0 +1,35 @@
+{
+  "project_id": "my-gcp-project",
+  "location": "us-central1",
+  "output_dir": "artifacts",
+  "voice_name": "en-US-Neural2-I",
+  "slides": [
+    {
+      "title": "Cloud Architecture Leadership",
+      "bullet_points": [
+        "Designed resilient multi-region systems",
+        "Optimized costs with autoscaling",
+        "Led cross-functional cloud adoption"
+      ],
+      "prompt": "futuristic office skyline with cloud icons, vibrant, cinematic lighting"
+    },
+    {
+      "title": "Data Engineering Expertise",
+      "bullet_points": [
+        "Built streaming analytics pipelines",
+        "Implemented governance and observability",
+        "Enabled ML teams with curated datasets"
+      ],
+      "prompt": "data visualization dashboards in neon colors, abstract art"
+    },
+    {
+      "title": "AI Solutions Delivery",
+      "bullet_points": [
+        "Delivered generative AI prototypes",
+        "Integrated Vertex AI with business apps",
+        "Drove measurable impact for stakeholders"
+      ],
+      "prompt": "engineer collaborating with AI assistant hologram, cinematic"
+    }
+  ]
+}

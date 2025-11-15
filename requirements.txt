@@ -1,0 +1,3 @@
+google-cloud-texttospeech>=2.16.2
+google-cloud-aiplatform>=1.48.0
+moviepy>=1.0.3
